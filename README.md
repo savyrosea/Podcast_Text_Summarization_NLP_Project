@@ -9,15 +9,18 @@ https://www.goodhousekeeping.com/life/entertainment/g28353940/best-podcasts/
 
 # Text Summarization Using Pegasus
 The first method of text summarization that I wanted to explore was PEGASUS. PEGASUS is the latest state-of-the-art model for abstractive summarization open-sourced by Google. I am using a Pegasus model that has been pre-trained on the XSUM dataset as well as using this huggingface page as a basis for my Pegasus model.
+
 https://huggingface.co/google/pegasus-xsum
 
 Read more about Pegasus here: 
+
 https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html
 
 
 # Text Summarization Using Transformers Library and Google T5 Model
 In this model I am using the transformers library to summerize text by using the Google T5 encoder-decoder model. 
 The basis for this method of summerization can be found here:
+
 https://huggingface.co/transformers/task_summary.html
 
 # My Findings
