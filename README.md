@@ -8,7 +8,17 @@ The podcast descriptions and photos used in this project were scraped from a goo
 https://www.goodhousekeeping.com/life/entertainment/g28353940/best-podcasts/
 
 # Text Summarization Using Pegasus
+https://huggingface.co/google/pegasus-xsum
 
 # Text Summarization Using Google T5 Model
+https://huggingface.co/transformers/task_summary.html
 
 # My Findings
+In general, Pegasus is more casual, fun, and grammatically correct, but sometimes takes too big of leaps that are not true. 
+Google T5 is a much more accurate summarization but uses poor grammar, often leaving sentences hanging even if the summary hasn't met the max word requirement.
+
+There were examples when the Pegasus preformed better than the Google T5 model:
+example here
+
+And vice versa:
+example here
