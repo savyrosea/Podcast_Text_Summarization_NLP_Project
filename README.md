@@ -15,7 +15,9 @@ Read more about Pegasus here:
 https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html
 
 
-# Text Summarization Using Google T5 Model
+# Text Summarization Using Transformers Library and Google T5 Model
+In this model I am using the transformers library to summerize text by using the Google T5 encoder-decoder model. 
+The basis for this method of summerization can be found here:
 https://huggingface.co/transformers/task_summary.html
 
 # My Findings
