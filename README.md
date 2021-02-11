@@ -26,14 +26,15 @@ https://huggingface.co/transformers/task_summary.html
 
 # Example Outputs
 ![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/99Invisible.PNG)
-![]()
+
+![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/EarHustle.PNG)
 
 # My Findings
 In general, Pegasus is more casual, fun, and grammatically correct, but sometimes takes too big of leaps and draws conclusions that are not true. 
 The transformers library model is more accurate summarization but uses poor grammar, often leaving sentences hanging even if the summary hasn't met the max word requirement.
 
 There were examples when the Pegasus preformed better than the transformers model:
-![]()
+![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/RadioCherryBombe.PNG)
 
 And vice versa:
 ![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/EveryLittleThing.PNG)
