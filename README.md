@@ -13,6 +13,9 @@ The first method of text summarization that I wanted to explore was PEGASUS. PEG
 
 https://huggingface.co/google/pegasus-xsum
 
+I also looked at the distribution of the length of the original podcast description compared to the new summary that PEGASUS created.
+![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/InputOutputDistribution.PNG)
+
 Read more about Pegasus here: 
 
 https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html
