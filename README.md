@@ -28,16 +28,16 @@ The basis for this method of summerization can be found here:
 https://huggingface.co/transformers/task_summary.html
 
 # Example Outputs
-![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/99Invisible.PNG)
+![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/99InvisibleT5.PNG)
 
-![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/EarHustle.PNG)
+![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/EarHustleT5.PNG)
 
 # My Findings
 In general, Pegasus is more casual, fun, and grammatically correct, but sometimes takes too big of leaps and draws conclusions that are not true. 
 The T5 model is more accurate summarization but uses poor grammar, often leaving sentences hanging even if the summary hasn't met the max word requirement.
 
 There were examples when the Pegasus preformed better than the T5 model:
-![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/RadioCherryBombe.PNG)
+![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/RadioCherryBombeT5.PNG)
 
 And vice versa:
-![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/EveryLittleThing.PNG)
+![](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project/blob/main/images/EveryLittleThingT5.PNG)
